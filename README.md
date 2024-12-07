@@ -1,1 +1,5 @@
-# cart
+<<<<<<< HEAD
+Your changes
+=======
+Remote changes
+>>>>>>> commit-hash
